@@ -10,6 +10,7 @@ title: Telegram 停止解析
 eventname: 因創意私房網站遭到封鎖，而轉戰到 Telegram，衛福部宣布在擁有證據的情況下，以「中文」的方式去信通知 Telegram，要求 Telegram 關閉創意私房於 Telegram 的聊天室。而有新竹市熱心市民向市政府檢舉，社會局發文通報各單位停止解析導致。  
 eventlocation: 📍 新竹市政府  
 weight: 20
+image: https://i.sudo.host/i/ymJYf5yT.webp
 ---
 
 ## 經過
