@@ -1,4 +1,5 @@
 baseURL = 'https://rpz.nog.tw/'
 languageCode = 'zh-tw'
+defaultContentLanguage = "zh-tw"
 title = '台灣 RPZ'
 theme = 'timeline'
