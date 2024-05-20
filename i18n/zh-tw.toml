@@ -1,0 +1,33 @@
+# Generic
+#
+[translations]
+other = "翻譯"
+
+[postAvailable]
+other = "其他語言版本："
+
+
+# 404.html
+#
+[archives]
+other = "文章存檔"
+
+[home]
+other = "首頁"
+
+[notFound]
+other = "哎呀，找不到頁面..."
+
+
+# posts/single.html
+#
+[readingTime]
+one = "閱讀時間一分鐘"
+other = "閱讀時間 {{ .Count }} 分鐘"
+
+[tableOfContents]
+other = "目錄"
+
+[wordCount]
+one = "一個字"
+other = "{{ .Count }} 個字"

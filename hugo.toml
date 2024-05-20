@@ -1,0 +1,4 @@
+baseURL = 'https://rpz.nog.tw/'
+languageCode = 'zh-tw'
+title = '台灣 RPZ'
+theme = 'timeline'
