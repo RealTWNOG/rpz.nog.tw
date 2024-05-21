@@ -1,6 +1,6 @@
-+++
+---
 author:
-  name: "tdc"
+  name: "name"
 date: {{ .Date }}
 linktitle: "{{ replace .Name "-" " " | title }}"
 type:
@@ -10,4 +10,4 @@ title: "{{ replace .Name "-" " " | title }}"
 eventname:   
 eventlocation: 📍   
 weight: 20
-+++
+---
