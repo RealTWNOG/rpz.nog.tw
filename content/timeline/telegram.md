@@ -55,10 +55,10 @@ image: https://i.sudo.host/i/JdyhNSsu.webp
 
 新竹市熱心市民向市政府檢舉，當地社會局在 在 2024 年 5 月 16 日，
 發文通報各單位停止解析，在 5 月 18 日時有清大同學在 Dcard 上[發文](https://www.dcard.tw/f/nthu/p/255577426)表示自己使用學校網路無法開啟 Telegram，沒多久又恢復正常。
-![https://i.sudo.host/i/JdyhNSsu.webp](https://i.sudo.host/i/JdyhNSsu.webp)
-(圖源：Dcard清華大學板)
+![](/images/telegram/ymJYf5yT.webp)
+(圖源：Dcard清華大學sdfsdf板)
 
-![https://i.sudo.host/i/TFk4eWzz.webp](https://i.sudo.host/i/TFk4eWzz.webp)
+![](/images/telegram/VhQB5CPn.webp)
 (圖源：Dcard清華大學板)
 
 
@@ -67,7 +67,7 @@ image: https://i.sudo.host/i/JdyhNSsu.webp
 
 有新竹市熱心市民向市政府檢舉，社會局發文通報各單位停止解析導致。而收文單位（清華大學計算機中心）沒有判斷來文的要求是否合理亦或是直接執行要求，最後就導致有學生無法連上的狀況，有網友 Li-Heng Yu (尤理衡) 在臉書分享，分析整件事件為何會最終導致只有「清華大學」無法連上 Telegram 的原因，並簡單劃出圖表並指出幾點：
 
-![https://i.sudo.host/i/WZjjbMgR.webp](https://i.sudo.host/i/WZjjbMgR.webp)
+![](/images/telegram/fyLhGcFW.webp)
 (圖源：Li-Heng Yu (尤理衡)於臉書張貼)
 
 
@@ -100,9 +100,9 @@ image: https://i.sudo.host/i/JdyhNSsu.webp
 
 然而根據過往紀錄顯示 TWNIC 目前已經將申訴頁面給關閉了
 
-![https://i.sudo.host/i/8cJFhJpx.webp](https://i.sudo.host/i/8cJFhJpx.webp)
+![](/images/telegram/8p9iD6V4.webp)
 (https://rpz.twnic.tw/appeal.html)
 
 
-![https://i.sudo.host/i/mUwYGRAm.webp](https://i.sudo.host/i/mUwYGRAm.webp)
+![](/images/telegram/mUwYGRAm.webp)
 (https://web.archive.org/web/20230606001435/https://rpz.twnic.tw/appeal.html)
