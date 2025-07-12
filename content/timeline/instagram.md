@@ -17,19 +17,13 @@ image: https://i.sudo.host/i/RJXnanQV.webp
 
 有網友在 ptt 上[發文](https://www.ptt.cc/bbs/Gossiping/M.1711087306.A.8C9.html)表示，使用中華電信的 DNS 伺服器，發現 Instagram 被回報為賭博詐騙網站，並且被 DNS 汙染，用電腦打開 Instagram 會跳出警告視窗，網頁會轉跳到刑事警察局警告頁面。
 
-![https://i.sudo.host/i/bmRACXRP.webp](https://i.sudo.host/i/bmRACXRP.webp)
+![](images/instagram/ig.jpg)
 (圖源：ptt)
-
-![https://i.sudo.host/i/RJXnanQV.webp](https://i.sudo.host/i/RJXnanQV.webp)
-  
-(圖源：ptt)
-
 
 ## 事件
 
 此次影響範圍不明，但根據網友發文時間推斷 `2024 年 03 月 22 日 14:01:44` 發生異常直到 `2024 年 03 月 22 日 14:37` 恢復，期間為期大約 40 分鐘，並且有網友在留言中表示，使用中華電信的 DNS 伺服器，Instagram 仍然被回報為賭博詐騙網站。
 
-![https://i.sudo.host/i/JdctL7XL.webp](https://i.sudo.host/i/JdctL7XL.webp)
 
 
 ## 分析
